@@ -13,6 +13,7 @@ The website consists of the following sections:
   - Celebrity/Artist Security
   - Corporate Security
   - Secure Transport
+  - Risk Assessment
 - Testimonials
 - Careers
 - Contact
@@ -36,6 +37,7 @@ For optimal display, please place appropriate images in the `/images` folder:
 - `celebrity-security.jpg` - Celebrity/Artist Protection service image (600x400px)
 - `corporate-security.jpg` - Corporate Security service image (600x400px)
 - `secure-transport.jpg` - Secure Transport service image (600x400px)
+- `risk-assessment.jpg` - Risk Assessment service image (600x400px)
 - `careers-image.jpg` - Careers section image (800x600px)
 
 Recommended image themes for each service:
@@ -44,6 +46,7 @@ Recommended image themes for each service:
 - Celebrity Security: Security team escorting a celebrity
 - Corporate Security: Security professionals in corporate setting
 - Secure Transport: Luxury armored vehicle or secure transport
+- Risk Assessment: Security professional analyzing data or inspecting a location
 
 ## Video Requirements
 
